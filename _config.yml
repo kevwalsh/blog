@@ -8,7 +8,7 @@ description: "Ramblings"
 author: "Kevin Walsh"
 
 # url: "http://m3xm.github.io"
-baseurl: ""
+baseurl: "http://kevwalsh.github.io/blog/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Digital strategist and drupal site builder at CivicActions"
