@@ -17,5 +17,7 @@ Next up:
 
  * play around with Octopress.
  * add tagging to this theme.
+ * some gulp tools
+ * going to start tracking in github.
 
 Here's to writing again.
